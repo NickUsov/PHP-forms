@@ -30,7 +30,7 @@
     Cambodia
     Cameroon
     Canada
-    Central African Republic (CAR)
+    Central African Republic
     Chad
     Chile
     China
@@ -54,7 +54,7 @@
     Equatorial Guinea
     Eritrea
     Estonia
-    Eswatini (formerly Swaziland)
+    Eswatini
     Ethiopia
     Fiji
     Finland
@@ -116,7 +116,7 @@
     Montenegro
     Morocco
     Mozambique
-    Myanmar (formerly Burma)
+    Myanmar
     Namibia
     Nauru
     Nepal
@@ -126,7 +126,7 @@
     Niger
     Nigeria
     North Korea
-    North Macedonia (formerly Macedonia)
+    North Macedonia
     Norway
     Oman
     Pakistan
@@ -183,13 +183,13 @@
     Tuvalu
     Uganda
     Ukraine
-    United Arab Emirates (UAE)
-    United Kingdom (UK)
-    United States of America (USA)
+    United Arab Emirates
+    United Kingdom
+    United States of America
     Uruguay
     Uzbekistan
     Vanuatu
-    Vatican City (Holy See)
+    Vatican City
     Venezuela
     Vietnam
     Yemen

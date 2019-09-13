@@ -5,14 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <script src="script.js"></script>
 </head>
 <body>
-    <form action="" method="post" id='form'>
+    <form action="" method="GET" id='form'>
         <input type="text" name="text" id="text">
-        <button type="submit" name="btn">Done</button>
+        <button type="submit" id="btn">Done</button>
     </form>
-    <div>
-        <?php include_once 'handler.php' ?>
+    <div id="result">
+        
     </div>
 </body>
 </html>
